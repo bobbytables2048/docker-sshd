@@ -1,6 +1,6 @@
 # SSHD
 
-Minimal Alpine Linux Docker image with `sshd` exposed and `rsync` installed.
+Minimal Alpine Linux Docker image with `sshd` exposed and `rsync`, `nano`, `sudo` installed.
 
 ## Environment Options
 
